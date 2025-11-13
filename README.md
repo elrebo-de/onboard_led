@@ -7,7 +7,7 @@ The component is implemented as C++ class `OnBoardLed`.
 
 ## Connecting the component
 
-The constructor of class `OnBoardLed` has six parameters:
+The constructor of class `OnBoardLed` has seven parameters:
 
 | Parameter    | Type of Parameter | Usage                                                   |
 |:-------------|:------------------|:--------------------------------------------------------|
