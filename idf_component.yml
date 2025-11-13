@@ -1,13 +1,13 @@
 version: "1.0.2"
+license: "Apache 2.0"
+description: "OnBoard LED component for ESP-IDF version 6.0+ using a C++ class"
+url: "https://github.com/elrebo-de/onboard_led"
+issues: "https://github.com/elrebo-de/onboard_led/issues"
+repository: "https://github.com/elrebo-de/onboard_led.git"
 maintainers:
 - Christoph Oberle <christoph.oberle@elrebo.de>
-description: "OnBoard LED component for ESP-IDF version 6.0+ using a C++ class"
-license: "Apache 2.0"
+files:
+  use_gitignore: "true"
 dependencies:
   idf: "^6.0.0"
   espressif/led_strip: "^3.0.0"
-files:
-  use_gitignore: "true"
-url: "https://github.com/elrebo-de/onboard_led"
-repository: "https://github.com/elrebo-de/onboard_led.git"
-issues: "https://github.com/elrebo-de/onboard_led/issues"
